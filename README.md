@@ -44,7 +44,7 @@ The objective was to understand how password-protected PDF files can be converte
 
 ---
 
-## Module 2 - Password Cracking with NetworkWalks Tools
+## Password Cracking with NetworkWalks Tools
 
 ### Skills Practiced
 
